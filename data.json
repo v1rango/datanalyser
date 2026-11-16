@@ -1,0 +1,144 @@
+{
+ "prices": [
+  {
+   "symbol": "XAUUSD",
+   "fa": "🥇 طلا",
+   "color": "#e5b93c",
+   "price": 3871.300048828125,
+   "chg": -0.33468063323074226,
+   "age_min": 19
+  },
+  {
+   "symbol": "EURUSD",
+   "fa": "💶 یورو",
+   "color": "#4f9cf9",
+   "price": 1.1012003421783447,
+   "chg": -0.3744073447513409,
+   "age_min": 9
+  },
+  {
+   "symbol": "GBPUSD",
+   "fa": "💷 پوند",
+   "color": "#8b5cf6",
+   "price": 1.3196616172790527,
+   "chg": -0.24018685785971908,
+   "age_min": 9
+  },
+  {
+   "symbol": "DXY",
+   "fa": "💵 دلار (شاخص)",
+   "color": "#22c55e",
+   "price": 103.49099731445312,
+   "chg": 0.31793888689662997,
+   "age_min": 19
+  }
+ ],
+ "stats": {
+  "total": 0,
+  "open": 0,
+  "decided": 0,
+  "winrate": null,
+  "total_r": 0
+ },
+ "calendar": [
+  {
+   "t": "Mon 17:00",
+   "impact": "High",
+   "country": "USD",
+   "title": "Fed Chairman Warsh Speaks"
+  },
+  {
+   "t": "Mon 22:50",
+   "impact": "High",
+   "country": "AUD",
+   "title": "RBA Gov Bullock Speaks"
+  },
+  {
+   "t": "Tue 02:00",
+   "impact": "High",
+   "country": "NZD",
+   "title": "Inflation Expectations q/q"
+  },
+  {
+   "t": "Tue 07:00",
+   "impact": "Medium",
+   "country": "GBP",
+   "title": "Average Earnings Index 3m/y"
+  },
+  {
+   "t": "Tue 13:30",
+   "impact": "High",
+   "country": "USD",
+   "title": "Core Retail Sales m/m"
+  },
+  {
+   "t": "Tue 13:30",
+   "impact": "High",
+   "country": "USD",
+   "title": "Retail Sales m/m"
+  }
+ ],
+ "news": [
+  {
+   "t": "16-11 13:44",
+   "source": "DW Persian",
+   "title": "اقتصاد قسطی در ایران؛ خرید غذا با یارانه آینده"
+  },
+  {
+   "t": "16-11 13:39",
+   "source": "Fox News",
+   "title": "Spain's Canary Islands flooded by thousands of migrants as country declares emergency"
+  },
+  {
+   "t": "16-11 13:32",
+   "source": "GNews Watch",
+   "title": "gold price struggles even as New York Fed's Empire State survey weakens - Kitco"
+  },
+  {
+   "t": "16-11 13:31",
+   "source": "Fox News",
+   "title": "FBI investigates who placed bomb near Illinois ethanol plant"
+  },
+  {
+   "t": "16-11 13:30",
+   "source": "BBC Persian",
+   "title": "«پیشروی» حوثی‌ها به سمت عدن پس از عقب‌نشینی نیروها به رهبری عربستان از باب‌المندب"
+  },
+  {
+   "t": "16-11 13:29",
+   "source": "GNews Watch",
+   "title": "'Plenty of Reasons to Sell' as Gold Sinks 15% in 12 Weeks - BullionVault"
+  },
+  {
+   "t": "16-11 13:21",
+   "source": "GNews Watch",
+   "title": "Gold Price Today on November 16, 2026 - The Arizona Republic"
+  },
+  {
+   "t": "16-11 13:18",
+   "source": "Fox News",
+   "title": "SPEAK UP: How does America fix its air travel mess?"
+  },
+  {
+   "t": "16-11 13:15",
+   "source": "CNBC Markets",
+   "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation"
+  },
+  {
+   "t": "16-11 13:13",
+   "source": "GNews Watch",
+   "title": "Gold Price Today: $3,872 Monday, Lowest Since October 2025 Before Warsh Speech, Bull $4,010, Bear $3,800 - FinanceFeeds"
+  },
+  {
+   "t": "16-11 13:12",
+   "source": "GNews Watch",
+   "title": "Dollar Surges On Increased Fed Rate Hike Bets - RTTNews"
+  },
+  {
+   "t": "16-11 13:04",
+   "source": "GNews Watch",
+   "title": "Gold hits over one-year low on resilient dollar as hawkish Fed bets build - Kitco"
+  }
+ ],
+ "generated": 1794837624
+}
