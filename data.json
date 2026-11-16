@@ -3,34 +3,34 @@
   {
    "fa": "🥇 طلا",
    "color": "#e5b93c",
-   "price": "3871.8",
+   "price": "3867.4",
    "unit": "",
-   "chg": -0.34233477886833524,
-   "age_min": 23
+   "chg": -0.6320682851040595,
+   "age_min": 10
   },
   {
    "fa": "💶 یورو",
    "color": "#4f9cf9",
-   "price": "1.10144",
+   "price": "1.10181",
    "unit": "",
-   "chg": -0.39651350126207974,
-   "age_min": 13
+   "chg": -0.33054111711725703,
+   "age_min": 0
   },
   {
    "fa": "💷 پوند",
    "color": "#8b5cf6",
-   "price": "1.31994",
+   "price": "1.32017",
    "unit": "",
-   "chg": -0.250786014792393,
-   "age_min": 13
+   "chg": -0.2429168615757627,
+   "age_min": 0
   },
   {
    "fa": "💵 دلار (شاخص)",
    "color": "#22c55e",
-   "price": "103.51",
+   "price": "103.478",
    "unit": "",
-   "chg": 0.2673547217603434,
-   "age_min": 22
+   "chg": 0.28492665883546586,
+   "age_min": 10
   },
   {
    "fa": "💵 دلار ایران",
@@ -38,15 +38,15 @@
    "price": "268،900",
    "unit": " تومان",
    "chg": 1.16,
-   "age_min": 3
+   "age_min": 5
   },
   {
    "fa": "💶 یورو ایران",
    "color": "#4fb9de",
-   "price": "296،460",
+   "price": "296،440",
    "unit": " تومان",
-   "chg": 0.98,
-   "age_min": 3
+   "chg": 0.97,
+   "age_min": 5
   }
  ],
  "stats": {
@@ -96,6 +96,46 @@
  ],
  "news": [
   {
+   "t": "14:14",
+   "source": "CNBC",
+   "title": "Jim Cramer's top 10 things to watch in the stock market Monday"
+  },
+  {
+   "t": "14:10",
+   "source": "Google News",
+   "title": "Gold prices this afternoon (November 16): World gold prices hit a \"bottom\". - Vietnam.vn"
+  },
+  {
+   "t": "14:07",
+   "source": "Google News",
+   "title": "Gold Crashes to 13-Month Low, Silver Sinks Below $48 as Nearly $400 Billion Vanishes in Precious Metals Rout - International Business Times Australia"
+  },
+  {
+   "t": "14:03",
+   "source": "Fox News",
+   "title": "FOX's 'Big Noon Kickoff' heads to Ferris State for first-ever stop at a Division II school"
+  },
+  {
+   "t": "14:02",
+   "source": "Google News",
+   "title": "Gold, silver rates today, 16 November: Check 24K, 22K gold and 999 silver PM rates in Delhi - Livemint"
+  },
+  {
+   "t": "14:00",
+   "source": "Fox News",
+   "title": "Inside one university's efforts to reclaim the classroom and fight antisemitism"
+  },
+  {
+   "t": "14:00",
+   "source": "CNBC",
+   "title": "A major NFT marketplace is shutting down—5 years after the boom, there's a lesson for investors"
+  },
+  {
+   "t": "13:57",
+   "source": "Fox News",
+   "title": "Viral video captures two massive bucks in intense antler fight during deer rut in Texas"
+  },
+  {
    "t": "13:55",
    "source": "CNBC",
    "title": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power"
@@ -106,55 +146,15 @@
    "title": "Texans defender furious over costly penalty on Browns' game-winning drive: 'We play a violent sport'"
   },
   {
-   "t": "13:46",
-   "source": "CNBC",
-   "title": "International student enrollment drops sharply, putting more U.S. colleges in financial jeopardy"
-  },
-  {
-   "t": "13:45",
-   "source": "Al Jazeera",
-   "title": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb"
-  },
-  {
-   "t": "13:45",
-   "source": "Al Jazeera",
-   "title": "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care"
-  },
-  {
-   "t": "13:44",
-   "source": "DW فارسی",
-   "title": "اقتصاد قسطی در ایران؛ خرید غذا با یارانه آینده"
-  },
-  {
-   "t": "13:40",
-   "source": "Iran Intl",
-   "title": "Senior Guards commander admits deep Israeli intelligence infiltration - Iran International"
-  },
-  {
-   "t": "13:39",
-   "source": "Fox News",
-   "title": "Spain's Canary Islands flooded by thousands of migrants as country declares emergency"
-  },
-  {
-   "t": "13:36",
+   "t": "13:50",
    "source": "Google News",
-   "title": "Can the British Pound Stem Losses Below 1.3200 as Fed Rate Hike Expectations Lift the US Dollar? - www.tmgm.com"
+   "title": "Integra Resources Corp. (TSXV:ITR) Posts Quarterly Profit, Lowers Florida Canyon Gold Guidance - kalkine.ca"
   },
   {
-   "t": "13:32",
+   "t": "13:50",
    "source": "Google News",
-   "title": "gold price struggles even as New York Fed's Empire State survey weakens - Kitco"
-  },
-  {
-   "t": "13:31",
-   "source": "Fox News",
-   "title": "FBI investigates who placed bomb near Illinois ethanol plant"
-  },
-  {
-   "t": "13:30",
-   "source": "BBC فارسی",
-   "title": "«پیشروی» حوثی‌ها به سمت عدن پس از عقب‌نشینی نیروها به رهبری عربستان از باب‌المندب"
+   "title": "First Mining Gold Corp. (TSX:FF) Reports Stronger Treasury as Springpole Awaits Provincial Decision - kalkine.ca"
   }
  ],
- "generated": 1794838414
+ "generated": 1794838534
 }
