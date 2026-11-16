@@ -1,0 +1,1 @@
+window.JOURNAL={"trades": [], "monthly": [], "jstats": {"trades": 0, "closed": 0, "winrate": null, "total_r": 0}}

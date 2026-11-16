@@ -1,36 +1,52 @@
 {
  "prices": [
   {
-   "symbol": "XAUUSD",
    "fa": "🥇 طلا",
    "color": "#e5b93c",
-   "price": 3871.300048828125,
-   "chg": -0.33468063323074226,
-   "age_min": 19
+   "price": "3871.8",
+   "unit": "",
+   "chg": -0.34233477886833524,
+   "age_min": 23
   },
   {
-   "symbol": "EURUSD",
    "fa": "💶 یورو",
    "color": "#4f9cf9",
-   "price": 1.1012003421783447,
-   "chg": -0.3744073447513409,
-   "age_min": 9
+   "price": "1.10144",
+   "unit": "",
+   "chg": -0.39651350126207974,
+   "age_min": 13
   },
   {
-   "symbol": "GBPUSD",
    "fa": "💷 پوند",
    "color": "#8b5cf6",
-   "price": 1.3196616172790527,
-   "chg": -0.24018685785971908,
-   "age_min": 9
+   "price": "1.31994",
+   "unit": "",
+   "chg": -0.250786014792393,
+   "age_min": 13
   },
   {
-   "symbol": "DXY",
    "fa": "💵 دلار (شاخص)",
    "color": "#22c55e",
-   "price": 103.49099731445312,
-   "chg": 0.31793888689662997,
-   "age_min": 19
+   "price": "103.51",
+   "unit": "",
+   "chg": 0.2673547217603434,
+   "age_min": 22
+  },
+  {
+   "fa": "💵 دلار ایران",
+   "color": "#f0b429",
+   "price": "268،900",
+   "unit": " تومان",
+   "chg": 1.16,
+   "age_min": 3
+  },
+  {
+   "fa": "💶 یورو ایران",
+   "color": "#4fb9de",
+   "price": "296،460",
+   "unit": " تومان",
+   "chg": 0.98,
+   "age_min": 3
   }
  ],
  "stats": {
@@ -80,65 +96,65 @@
  ],
  "news": [
   {
-   "t": "16-11 13:44",
-   "source": "DW Persian",
+   "t": "13:55",
+   "source": "CNBC",
+   "title": "Nvidia fallout: Commerce cracks down on third-country loophole that allowed China to use computing power"
+  },
+  {
+   "t": "13:54",
+   "source": "Fox News",
+   "title": "Texans defender furious over costly penalty on Browns' game-winning drive: 'We play a violent sport'"
+  },
+  {
+   "t": "13:46",
+   "source": "CNBC",
+   "title": "International student enrollment drops sharply, putting more U.S. colleges in financial jeopardy"
+  },
+  {
+   "t": "13:45",
+   "source": "Al Jazeera",
+   "title": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb"
+  },
+  {
+   "t": "13:45",
+   "source": "Al Jazeera",
+   "title": "Jailed Pakistan ex-PM Imran Khan writes to judges, seeks vital medical care"
+  },
+  {
+   "t": "13:44",
+   "source": "DW فارسی",
    "title": "اقتصاد قسطی در ایران؛ خرید غذا با یارانه آینده"
   },
   {
-   "t": "16-11 13:39",
+   "t": "13:40",
+   "source": "Iran Intl",
+   "title": "Senior Guards commander admits deep Israeli intelligence infiltration - Iran International"
+  },
+  {
+   "t": "13:39",
    "source": "Fox News",
    "title": "Spain's Canary Islands flooded by thousands of migrants as country declares emergency"
   },
   {
-   "t": "16-11 13:32",
-   "source": "GNews Watch",
+   "t": "13:36",
+   "source": "Google News",
+   "title": "Can the British Pound Stem Losses Below 1.3200 as Fed Rate Hike Expectations Lift the US Dollar? - www.tmgm.com"
+  },
+  {
+   "t": "13:32",
+   "source": "Google News",
    "title": "gold price struggles even as New York Fed's Empire State survey weakens - Kitco"
   },
   {
-   "t": "16-11 13:31",
+   "t": "13:31",
    "source": "Fox News",
    "title": "FBI investigates who placed bomb near Illinois ethanol plant"
   },
   {
-   "t": "16-11 13:30",
-   "source": "BBC Persian",
+   "t": "13:30",
+   "source": "BBC فارسی",
    "title": "«پیشروی» حوثی‌ها به سمت عدن پس از عقب‌نشینی نیروها به رهبری عربستان از باب‌المندب"
-  },
-  {
-   "t": "16-11 13:29",
-   "source": "GNews Watch",
-   "title": "'Plenty of Reasons to Sell' as Gold Sinks 15% in 12 Weeks - BullionVault"
-  },
-  {
-   "t": "16-11 13:21",
-   "source": "GNews Watch",
-   "title": "Gold Price Today on November 16, 2026 - The Arizona Republic"
-  },
-  {
-   "t": "16-11 13:18",
-   "source": "Fox News",
-   "title": "SPEAK UP: How does America fix its air travel mess?"
-  },
-  {
-   "t": "16-11 13:15",
-   "source": "CNBC Markets",
-   "title": "Nvidia stock falls as investors price in fallout from Jensen Huang's resignation"
-  },
-  {
-   "t": "16-11 13:13",
-   "source": "GNews Watch",
-   "title": "Gold Price Today: $3,872 Monday, Lowest Since October 2025 Before Warsh Speech, Bull $4,010, Bear $3,800 - FinanceFeeds"
-  },
-  {
-   "t": "16-11 13:12",
-   "source": "GNews Watch",
-   "title": "Dollar Surges On Increased Fed Rate Hike Bets - RTTNews"
-  },
-  {
-   "t": "16-11 13:04",
-   "source": "GNews Watch",
-   "title": "Gold hits over one-year low on resilient dollar as hawkish Fed bets build - Kitco"
   }
  ],
- "generated": 1794837624
+ "generated": 1794838414
 }
